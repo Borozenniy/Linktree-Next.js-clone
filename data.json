@@ -1,0 +1,34 @@
+{
+   "name": "Borozenniy Sergey",
+   "avatar": "https://pbs.twimg.com/profile_images/740262597228933120/tpTjnsvv_400x400.jpg",
+   "links": [
+      {
+         "title": "My twitter",
+         "href": "https://twitter.com/Borozenniy_SS",
+         "image": "https://pbs.twimg.com/profile_images/740262597228933120/tpTjnsvv_400x400.jpg"
+      },
+      {
+         "title": "Vercel",
+         "href": "https://vercel.com/",
+         "image": "https://pbs.twimg.com/profile_images/740262597228933120/tpTjnsvv_400x400.jpg"
+      },
+      {
+         "title": "Next.js",
+         "href": "https://nextjs.org/"
+      },
+      {
+         "title": "Facebook",
+         "href": "https://facebook.com/"
+      }
+   ],
+   "socials": [
+      {
+         "title": "Github",
+         "href": "https://nextjs.org/"
+      },
+      {
+         "title": "Twitter",
+         "href": "https://nextjs.org/"
+      }
+   ]
+}
